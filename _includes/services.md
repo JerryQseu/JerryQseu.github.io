@@ -10,6 +10,6 @@
 
 <h4 style="margin:0 10px 0;">Teaching assistant</h4>
 <ul style="margin:0 0 20px;">  
-  <autocolor>Medical Robotics BN5211 - National University of Singapore</autocolor>
+  <li><autocolor>Medical Robotics BN5211 - National University of Singapore</autocolor></li>
 </ul>
 
