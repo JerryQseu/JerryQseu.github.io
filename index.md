@@ -21,7 +21,11 @@ My research lies at the intersection of Deep Learning and Artificial Intelligenc
 
 ## Contact
 **Address**: Jiangsu, Nanjing, Sipailou
+
 **Lab Location**: Sipailou 2
+
 **Email**: qixiaoming12138 (at) 163.com
+
 **Phone: (86)**: 13770861974
+
 **Wechat**: Qxm_2019_
