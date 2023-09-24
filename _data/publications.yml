@@ -1,22 +1,25 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  - title: "Contrastive Re-localization and History Distillation in Federated CMR Segmentation"
+    authors: <strong>Xiaoming Qi</strong>, Guanyu Yang, Yuting He, Wangyan Liu, Ali Islam, Shuo Li
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2022.
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:cgIoWMaOd0YJ:scholar.google.com/&output=citation&scisdr=ClE57fxnEP6ftay9fEI:AFWwaeYAAAAAZQ-7ZEKXQNqpiIEJ5B2rgBts-Y0&scisig=AFWwaeYAAAAAZQ-7ZP2Y1upLfJjUyKofJXZUQGc&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: Post Presentation
+    image: ./assets/img/FedCRLD.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    
+  - title: "MVSGAN: Spatial-Aware Multi-View CMR Fusion for Accurate 3D Left Ventricular Myocardium Segmentation"
+    authors: <strong>Xiaoming Qi</strong>, Yuting He, Guanyu Yang, Yang Chen, Jian Yang, Wangyag Liu, Yinsu Zhu, Yi Xu, Huazhong Shu, Shuo Li
+    conference_short: JBHI
+    conference: IEEE Journal of Biomedical and Health Informatics, 2022.
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kaDzV6-mFfsJ:scholar.google.com/&output=citation&scisdr=ClE57fxnEP6ftay8rW8:AFWwaeYAAAAAZQ-6tW_KV19u9Z3yFX3GjJnqroM&scisig=AFWwaeYAAAAAZQ-6tUrTyNs28JG4SQH0obDeo58&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/MVSGAN.png
+
+  - title: "SAPJNet: Sequence-Adaptive Prototype-Joint Network for Small Sample Multi-sequence MRI Diagnosis"
+    authors: Yuqiang Gao, Guanyu Yang, <strong>Xiaoming Qi</strong>, Yinsu Zhu, Shuo Li
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2022.
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:5oP6cUjvvmsJ:scholar.google.com/&output=citation&scisdr=ClE57fxnEP6ftay_5Rk:AFWwaeYAAAAAZQ-5_RmHdi5UWQaRAssEPjaLg5g&scisig=AFWwaeYAAAAAZQ-5_dRQuZORCClpL6JV7NW5W9M&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: Post Presentation
+    image: ./assets/img/SAPJNet.png
