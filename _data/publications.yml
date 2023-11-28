@@ -4,7 +4,7 @@ main:
     conference_short: JBHI
     conference: IEEE Journal of Biomedical and Health Informatics, 2023.
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kaDzV6-mFfsJ:scholar.google.com/&output=citation&scisdr=ClE57fxnEP6ftay8rW8:AFWwaeYAAAAAZQ-6tW_KV19u9Z3yFX3GjJnqroM&scisig=AFWwaeYAAAAAZQ-6tUrTyNs28JG4SQH0obDeo58&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/STANet.png
+    image: ./assets/img/STANET.png
     
 
   - title: "Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation"
