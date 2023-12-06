@@ -10,6 +10,7 @@ My research lies at the intersection of Deep Learning and Artificial Intelligenc
 
 ## News
 
+- **[Dec. 2023]** Our paper about **Spatio-temporal** is accepted to JBHI 2023.
 - **[Jul. 2023]** Our paper about **network design** is accepted to ICCV 2023.
 - **[May 2022]** Our paper about **federated learning** is accepted to MICCAI 2022.
 - **[May 2022]** Our paper about **contrastive learning** is accepted to MICCAI 2022.
